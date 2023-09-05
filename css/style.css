@@ -181,6 +181,9 @@ header .menu div {
 .brand-section .brand-content h3 {
     font-size: 3.125vw;
 }
+.brand-section .brand-content p {
+    width: 58%;
+}
 
 
 /*End Brand style*/
